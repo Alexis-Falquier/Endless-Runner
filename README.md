@@ -3,4 +3,4 @@
 # All scripts except the camera follow and tile generator were scripted by me, where the tile generator and camera follow were scripted by my proffesor William Meyers from DePaul University.
 # This was developed in Unity personal, and is not meant for profit
 # if you want to play the game, download the application file in the builds folder.
-# to edit in unity download open a new unity project, then download the materials, music, prefabs, scenes and Scripts folders into your projects assets folders. Also replace your projects ProjectSettings with the one from here. 
+# to edit in unity create a new unity project, then download the materials, music, prefabs, scenes and Scripts folders into your projects assets folders. Also replace your projects ProjectSettings with the one from here. 
