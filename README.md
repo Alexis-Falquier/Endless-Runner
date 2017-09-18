@@ -1,4 +1,4 @@
-# Endless Runner Project
+# Endless Runner
 
 A quick fun endless runner I developed as a projet for a Game Scirpting class.
 
